@@ -1,0 +1,144 @@
+.navs{
+color: rgb(161, 161, 168);
+font-weight: bold;
+letter-spacing: 2px;
+font-style: italic;
+
+}
+
+
+.navcolor{
+    background-color: rgb(58, 59, 109);
+
+
+
+}
+
+body{
+
+background-color: rgb(209, 203, 171);
+
+
+}
+.signform{
+    border: 20px solid rgb(58, 59, 109);
+    
+    text-align: center;
+    font-size: 30px;
+    width: 50%;    
+
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+
+
+}
+
+.cart{
+background-color: rgb(58, 59, 109);
+
+}
+
+.curs{
+cursor:pointer ;
+margin: auto;
+
+border:  5px solid #5cb85c;
+
+padding: 10px;
+background-color: rgb(58, 59, 109);
+transition-duration: 100ms;
+color: #5cb85c;
+border-radius: 8px;
+}
+.curs:hover{
+    background-color: #0275d8  ;
+    color: rgb(161, 161, 168);
+}
+img{
+width: 300px;
+height: 200px;
+
+}
+footer{
+position: relative;
+width: 100%;
+
+background-color: rgb(58, 59,109);
+color: rgb(161, 161, 168);
+
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+height:fit-content ; 
+margin-top: 150px;
+
+
+}
+
+.coll{
+    background-color: rgb(209, 203, 171);
+    color: #444;
+    cursor: pointer;
+    padding: 5px;
+    width: fit-content;
+    border: rgb(161, 161, 168);
+    text-align: left;
+    outline: none;
+    font-size: 10px;
+    position: relative;
+
+}
+.ssearch {
+
+width: 500px;
+
+} 
+h5{
+
+    color: rgb(58, 59, 109);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.shoppingcart{
+text-align: center;
+margin: 10%;
+margin-left: 80px;
+
+border:  5px solid rgb(58, 59, 109);
+border-width: 10px;
+width: 10%;
+font-size: 30px;
+table-layout: auto;
+
+
+
+}
+
+th,th,tr,td{
+border:  3px solid   rgb(58, 59, 109);
+color: rgb(58, 59, 109);
+
+
+} 
+.contact{
+text-align: left;
+font-size: 25px;
+font-style: italic;
+padding: 2px;
+
+
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+}
+h2{
+font-size: 15px;
+text-align: center;
+
+
+
+}
